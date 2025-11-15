@@ -64,12 +64,12 @@
 
         scroll-layers {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
-                        &trans  &trans  &trans    &trans  &trans
-                                &trans  &trans    &trans
+&trans  &trans  &trans  &trans  &trans           &trans             &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans           &trans             &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans           &trans             &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans           &trans             &trans  &trans  &trans  &trans  &trans  &trans
+                        &trans  &trans           &trans             &trans  &trans
+                                &msc MOVE_Y(20)  &msc MOVE_X(20)    &trans
             >;
         };
 
