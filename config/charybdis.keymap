@@ -97,7 +97,7 @@
 
         layer_5 {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &kp MINUS  &kp PLUS         &kp DELETE
+&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &kp MINUS  &kp EQUAL        &kp DELETE
 &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans     &kp PRINTSCREEN  &kp RIGHT_BRACKET
 &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans     &trans           &trans
 &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans     &trans           &trans
